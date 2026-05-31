@@ -1,3 +1,7 @@
+import routes from "./routes";
+import { useRoutes } from "react-router-dom";
+
 export default function App() {
-  return <div>App</div>;
+  let router = useRoutes(routes);
+  return <>{router}</>;
 }
