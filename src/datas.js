@@ -111,4 +111,47 @@ const transactions = [
   },
 ];
 
-export { xAxisData, newMembers, transactions };
+let userRows = [
+  {
+    id: 1,
+    username: "Seong Gi-hun",
+    avatar: "images/Seong Gi-hun 456.jpg",
+    status: "active",
+    transaction: "$200.95",
+    email: "squid.game@gmail.com",
+  },
+  {
+    id: 2,
+    username: "Jo Yuri",
+    avatar: "images/Jo Yuri.jpg",
+    status: "active",
+    transaction: "$400.95",
+    email: "squid.game@gmail.com",
+  },
+  {
+    id: 3,
+    username: "Wi Ha-jun",
+    avatar: "images/Wi Ha-jun.jpg",
+    status: "active",
+    transaction: "$100.95",
+    email: "squid.game@gmail.com",
+  },
+  {
+    id: 4,
+    username: "Hwang In-ho",
+    avatar: "images/Hwang In-ho.webp",
+    status: "active",
+    transaction: "$200.95",
+    email: "squid.game@gmail.com",
+  },
+  {
+    id: 5,
+    username: "Yang Dong-geun",
+    avatar: "images/Yang Dong-geun.jpg",
+    status: "active",
+    transaction: "$100.75",
+    email: "squid.game@gmail.com",
+  },
+];
+
+export { xAxisData, newMembers, transactions, userRows };
