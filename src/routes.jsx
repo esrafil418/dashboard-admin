@@ -5,8 +5,8 @@ import UserList from "./pages/users/UserList";
 
 let routes = [
   { path: "/", element: <Home /> },
-  { path: "users", element: <UserList /> },
-  { path: "newUser", element: <NewUser /> },
+  { path: "/users", element: <UserList /> },
+  { path: "/newUser", element: <NewUser /> },
   { path: "/products", element: <Products /> },
 ];
 
