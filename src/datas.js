@@ -76,4 +76,39 @@ const newMembers = [
   },
 ];
 
-export { xAxisData, newMembers };
+const transactions = [
+  {
+    id: 1,
+    customer: "Seong Gi-hun",
+    date: "1 Jun 2026",
+    amount: 100,
+    status: "Approved",
+    img: "images/Seong Gi-hun 456.jpg",
+  },
+  {
+    id: 2,
+    customer: "Yim Si-wan",
+    date: "2 Jun 2026",
+    amount: 200,
+    status: "Declined",
+    img: "images/Yim Si-wan.jpg",
+  },
+  {
+    id: 3,
+    customer: "Yang Dong-geun",
+    date: "3 Jun 2026",
+    amount: 300,
+    status: "Declined",
+    img: "images/Yang Dong-geun.jpg",
+  },
+  {
+    id: 4,
+    customer: "Hwang In-ho",
+    date: "2 Jun 2026",
+    amount: 400,
+    status: "Pending",
+    img: "images/Hwang In-ho.webp",
+  },
+];
+
+export { xAxisData, newMembers, transactions };
