@@ -1,5 +1,5 @@
-import Chart from "../../components/topbar/chart/Chart";
-import Features from "../../components/topbar/features/Features";
+import Chart from "../../components/chart/Chart";
+import Features from "../../components/features/Features";
 import "./Home.css";
 import { xAxisData } from "../../datas";
 import WidgetSm from "../../components/widgetSm/WidgetSm";
