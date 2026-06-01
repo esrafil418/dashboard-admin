@@ -49,4 +49,31 @@ let xAxisData = [
   },
 ];
 
-export { xAxisData };
+const newMembers = [
+  {
+    id: 1,
+    username: "Hwang In-ho",
+    title: "Front Man",
+    img: "images/Hwang In-ho.webp",
+  },
+  {
+    id: 2,
+    username: "Jo Yuri",
+    title: "Player 222",
+    img: "images/Jo Yuri.jpg",
+  },
+  {
+    id: 3,
+    username: "Wi Ha-jun",
+    title: "Police",
+    img: "images/Wi Ha-jun.jpg",
+  },
+  {
+    id: 4,
+    username: "Yang Dong-geun",
+    title: "Player 007",
+    img: "images/Yang Dong-geun.jpg",
+  },
+];
+
+export { xAxisData, newMembers };
