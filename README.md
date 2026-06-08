@@ -2,7 +2,7 @@
 
 A simple Content Management System (CMS) panel with a design inspired by the Squid Game series. This project is built for managing users, products, transactions, and viewing sales reports.
 
-![Squid Game Dashboard](public\images\1.png)
+![Squid Game Dashboard](public/images/1.png)
 
 ## 🚀 Technologies Used
 
@@ -13,7 +13,7 @@ A simple Content Management System (CMS) panel with a design inspired by the Squ
 - **MUI Icons** - Beautiful icons
 - **Recharts 3** - Analytical charting
 
-![Squid Game Users Table](public\images\3.png)
+![Squid Game Users Table](public/images/3.png)
 
 ## 📋 Available Menus
 
@@ -27,7 +27,7 @@ A simple Content Management System (CMS) panel with a design inspired by the Squ
 - Products
 - Product Details
 
-![Squid Game Transactions](public\images\2.png)
+![Squid Game Transactions](public/images/2.png)
 
 ## ⚠️ Project Status
 
@@ -39,7 +39,7 @@ This project is currently in a preliminary/basic stage. For professional use, im
 - Error handling
 - Performance optimization
 
-![Squid Game Products](public\images\4.png)
+![Squid Game Products](public/images/4.png)
 
 ## 📝 Additional Notes
 
